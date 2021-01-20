@@ -1,18 +1,11 @@
-# Unity Prototype Template
-## How to use:
-1. Go to project folder
-
-2. Clone
-
-3. Rename Folder (UnityPrototype -> Tankz)
-
-4. in the folder, remove git (rm -fr ./Tankz/.git)
-
-5. Start a new git repo (git init)
+# Testing unities new input system
 
 
-Unity prototype
+Screenshot of driving
 
-Screenshot
-<img src='Screenshot.PNG' align="right" width=960>
+<img src='Screenshot.PNG'>
 
+
+Screenshot of ball game
+
+<img src='BallScreen.PNG'>
